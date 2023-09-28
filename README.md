@@ -1,2 +1,3 @@
-# Spoify_Clone
-It's my first HTML and CSS project.
+# Delta
+
+## Please use this repo to download your in-class starter codes.
